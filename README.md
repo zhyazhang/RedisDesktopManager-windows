@@ -5,3 +5,21 @@
 
 **Redis Desktop Manager**主要针对redis开发设计，拥有直观强大的可视化界面，具有完善全面的数据操作功能，可以针对目标key执行rename，delete，addrow，reload value操作，支持通过SSH Tunnel连接，用户可以通过它对Redis进行操作管理，简化原有的命令语言，充分发挥Redis的特性。
 
+## 演示图
+
+<table>
+    <tr>
+        <td><img src="./images/image_20210712_143211.jpg"/></td>
+        <td><img src="./images/image_20210712_144531.jpg"/></td>
+    </tr>
+    <tr>
+        <td><img src="./images/image_20210712_144605.jpg"/></td>
+        <td><img src="./images/image_20210712_144639.jpg"/></td>
+    </tr>
+
+
+    </table>
+
+
+
+</table>
