@@ -17,9 +17,4 @@
         <td><img src="./images/image_20210712_144639.jpg"/></td>
     </tr>
 
-
-    </table>
-
-
-
 </table>
